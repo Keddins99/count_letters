@@ -8,7 +8,5 @@ def count_letters(input_string):
 
     return letter_count
 
-# Example usage:
 input_string = "AaBb"
 result = count_letters(input_string)
-print(result)
